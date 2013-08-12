@@ -1,0 +1,34 @@
+8
+
+dir
+235
+https://svn.openqa.org/svn/sessiontester/trunk/src
+https://svn.openqa.org/svn/sessiontester
+
+
+
+2010-10-29T22:15:55.425838Z
+233
+westaj
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+60c62f19-475f-0410-8a3f-b5f749e7c374
+
+META-INF
+dir
+
+sessiontester
+dir
+

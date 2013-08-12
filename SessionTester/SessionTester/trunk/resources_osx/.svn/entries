@@ -1,0 +1,52 @@
+8
+
+dir
+235
+https://svn.openqa.org/svn/sessiontester/trunk/resources_osx
+https://svn.openqa.org/svn/sessiontester
+
+
+
+2009-03-24T03:15:58.873043Z
+155
+westaj
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+60c62f19-475f-0410-8a3f-b5f749e7c374
+
+Info.plist
+file
+
+
+
+
+2010-10-29T23:11:51.921875Z
+bcc60497cd896495cd7c294be039451b
+2009-02-14T09:02:39.827232Z
+113
+westaj
+
+sessiontester.icns
+file
+
+
+
+
+2010-10-29T23:11:51.937500Z
+044110b1dc25756c87c3341652c0a5ff
+2009-03-24T03:15:58.873043Z
+155
+westaj
+

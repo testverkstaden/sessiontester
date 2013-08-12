@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/sessiontester/!svn/ver/226/trunk/test/sessiontester
+END
+PreferencesUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sessiontester/!svn/ver/226/trunk/test/sessiontester/PreferencesUtilsTest.java
+END
+ConfigurationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sessiontester/!svn/ver/85/trunk/test/sessiontester/ConfigurationTest.java
+END
+PersistorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sessiontester/!svn/ver/142/trunk/test/sessiontester/PersistorTest.java
+END
+ParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sessiontester/!svn/ver/167/trunk/test/sessiontester/ParserTest.java
+END

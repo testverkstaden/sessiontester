@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 84
+bin
+obj
+installer_win.suo
+_ReSharper.installer_win
+installer_win.4.1.resharper.user
+
+END

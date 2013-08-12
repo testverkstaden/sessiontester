@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/sessiontester/!svn/ver/44/trunk/scripts
+END
+sessiontester.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/sessiontester/!svn/ver/44/trunk/scripts/sessiontester.sh
+END
+sessiontester.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/sessiontester/!svn/ver/44/trunk/scripts/sessiontester.cmd
+END
+regex_experiment.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sessiontester/!svn/ver/14/trunk/scripts/regex_experiment.groovy
+END

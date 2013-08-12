@@ -1,0 +1,94 @@
+8
+
+dir
+235
+https://svn.openqa.org/svn/sessiontester/trunk
+https://svn.openqa.org/svn/sessiontester
+
+
+
+2010-10-29T22:50:16.870799Z
+235
+westaj
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+60c62f19-475f-0410-8a3f-b5f749e7c374
+
+test
+dir
+
+license.txt
+file
+
+
+
+
+2010-10-29T23:11:59.203125Z
+2a0e8eb12734520cc85af102b78ae800
+2009-01-19T04:51:27.077531Z
+25
+westaj
+
+resources_osx
+dir
+
+Licenses
+dir
+
+doc
+dir
+
+lib
+dir
+
+nbproject
+dir
+
+scripts
+dir
+
+src
+dir
+
+MANIFEST.MF
+file
+
+
+
+
+2010-10-29T23:11:59.203125Z
+fc900632f32a8b1885b5026d096475ba
+2010-10-29T22:33:44.415969Z
+234
+westaj
+
+installer_win
+dir
+
+resources
+dir
+
+build.xml
+file
+
+
+
+
+2010-10-29T23:11:59.218750Z
+fa99a970884f902f016cf12693e7097a
+2009-03-01T06:37:40.844726Z
+132
+westaj
+

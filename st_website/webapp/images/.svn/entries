@@ -1,0 +1,29 @@
+8
+
+dir
+16
+https://svn.openqa.org/svn/sessiontester/website/src/main/webapp/images
+https://svn.openqa.org/svn/sessiontester
+
+
+
+2009-01-18T07:48:28.672532Z
+11
+jonathankohl
+
+
+svn:special svn:externals svn:needs-lock
+
+session_tester.png
+file
+17
+
+
+
+2009-01-18T22:22:46.750000Z
+719c270989099f8658199f3b6ef56f21
+2009-01-18T22:24:52.475403Z
+17
+jonathankohl
+has-props
+

@@ -1,0 +1,31 @@
+8
+
+dir
+16
+https://svn.openqa.org/svn/sessiontester/website/src/main/webapp/WEB-INF/jsp
+https://svn.openqa.org/svn/sessiontester
+
+
+
+2008-12-30T19:43:26.876862Z
+1
+plightbo
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+60c62f19-475f-0410-8a3f-b5f749e7c374
+
+decorators
+dir
+
