@@ -1,50 +1,0 @@
-8
-
-dir
-235
-https://svn.openqa.org/svn/sessiontester/trunk/doc
-https://svn.openqa.org/svn/sessiontester
-
-
-
-2010-10-28T22:56:22.029917Z
-228
-westaj
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-60c62f19-475f-0410-8a3f-b5f749e7c374
-
-images
-dir
-
-design
-dir
-
-user_guide
-dir
-
-Session Tester Application Design Notes.docx
-file
-
-
-
-
-2010-10-29T23:11:55.843750Z
-c2f402a44bfe03eb8c331ee98083f563
-2010-10-28T22:56:22.029917Z
-228
-westaj
-has-props
-
